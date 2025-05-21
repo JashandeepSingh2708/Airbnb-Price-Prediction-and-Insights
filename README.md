@@ -27,6 +27,7 @@ The insights from this analysis are intended to help Airbnb hosts make informed,
 - **Total Entries**: 74,111
 - **Features**: 29  
   The dataset includes property attributes, geographic information, host activity, and user reviews.
+- **Source**: [Airbnb Dataset (Google Sheets)](https://docs.google.com/spreadsheets/d/1N7P0euUjfjB8XXdTBQeicjGjxAOm18wvCRLaQC92a8g/edit?gid=693059640#gid=693059640)
 
 ---
 
